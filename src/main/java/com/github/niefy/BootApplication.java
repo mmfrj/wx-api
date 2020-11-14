@@ -12,6 +12,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 public class BootApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(BootApplication.class, args);
     }
 
